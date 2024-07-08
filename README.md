@@ -1,5 +1,5 @@
 # AI-concepts
-This repository is a collection of AI concepts and terms with video links:
+This repository is a collection of AI concepts and terms with their video links:
 
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 

@@ -2,6 +2,7 @@
 This repository is a collection of AI concepts and terms with their video links:
 
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
+[Beginner's guide to how language models work: full history of language models](#beginner's-guide-to-how-language-models-work:-full-history-of-language-models)
 
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 

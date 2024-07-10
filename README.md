@@ -14,3 +14,8 @@ This is Transformers simplified for beginners, based on the journal article ‘A
 ## Beginner's guide to how language models work full history of language models
 
 [![Watch the video on how language models work LLM understanding Analytics Camp](https://img.youtube.com/vi/n_5spvz-2KI/maxresdefault.jpg)](https://youtu.be/n_5spvz-2KI) 
+
+
+## Best LLM? How to Evaluate Language Models In Hugging Face
+
+A full explanation of the Hugging Face LLM evaluation Scheme and tests: Measuring Massive Multitask Language Understanding (MMLU), AI2 Reasoning Challenge (ARC), the TruthfulQA which measures whether a language model is truthful in generating answers to questions, HellaSwag which challenges LLMs with a new task of commonsense natural language inference, Winogrande as a test of pronoun resolution problems, and the GSM8k multi-step test of mathematical reasoning. 

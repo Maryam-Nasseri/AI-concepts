@@ -26,3 +26,7 @@ This is LLM simplified for beginners: the fascinating journey of the evolution o
 A full explanation of the Hugging Face LLM evaluation Scheme and tests: Measuring Massive Multitask Language Understanding (MMLU), AI2 Reasoning Challenge (ARC), the TruthfulQA which measures whether a language model is truthful in generating answers to questions, HellaSwag which challenges LLMs with a new task of commonsense natural language inference, Winogrande as a test of pronoun resolution problems, and the GSM8k multi-step test of mathematical reasoning. 
 
 [![Watch the video how to choose the best language model](https://img.youtube.com/vi/PXX2OO7s8wY/maxresdefault.jpg)](https://youtu.be/PXX2OO7s8wY) 
+
+
+
+## The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks

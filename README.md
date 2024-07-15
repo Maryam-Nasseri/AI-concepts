@@ -30,3 +30,5 @@ A full explanation of the Hugging Face LLM evaluation Scheme and tests: Measurin
 
 
 ## The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks
+
+A beginner and easy-to-follow explanation of Backpropagation in Neural Networks, and how it helps to reduce the error in predicting the next word in a sequence in a text. 

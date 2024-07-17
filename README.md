@@ -7,6 +7,8 @@ This repository is a collection of AI concepts and terms with their video links:
 
 [Best LLM? How to Evaluate Language Models In Hugging Face](#best-lLM?-how-to-evaluate-language-models-in-hugging-face)
 
+[The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks](#the-concept-of-backpropagation-simplified-in-jUST-2-mINUTES!-neural-networks)
+
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 
 This is Transformers simplified for beginners, based on the journal article ‘Attention Is All You Need’ 2017 by Google researchers. 

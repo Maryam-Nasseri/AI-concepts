@@ -9,6 +9,8 @@ This repository is a collection of AI concepts and terms with their video links:
 
 [The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks](#the-concept-of-backpropagation-simplified-in-jUST-2-mINUTES!-neural-networks)
 
+[Mamba Language Model Simplified In JUST 5 MINUTES!](#mamba-language-model-simplified-in-jUST-5-mINUTES!)
+
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 
 This is Transformers simplified for beginners, based on the journal article ‘Attention Is All You Need’ 2017 by Google researchers. 

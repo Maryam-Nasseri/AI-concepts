@@ -21,6 +21,7 @@ This is Transformers simplified for beginners, based on the journal article ‘A
 ## Beginner's guide to how language models work full history of language models
 
 This is LLM simplified for beginners: the fascinating journey of the evolution of language models, from rule-based models to statistical models, neural networks and transformers. 
+Main terms and concepts: probability of the next word, word sequences, rule-based algorithms, deterministic algorithms, contextual understanding, probabilistic algorithm, chain rule, natural language processing.
 
 [![Watch the video on how language models work LLM understanding Analytics Camp](https://img.youtube.com/vi/n_5spvz-2KI/maxresdefault.jpg)](https://youtu.be/n_5spvz-2KI) 
 

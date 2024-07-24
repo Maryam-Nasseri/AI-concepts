@@ -9,6 +9,7 @@ This repository is a collection of AI concepts and terms with their video links:
 
 [The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks](#the-concept-of-backpropagation-simplified-in-jUST-2-mINUTES!-neural-networks)
 
+
 [Mamba Language Model Simplified In JUST 5 MINUTES!](#mamba-language-model-simplified-in-jUST-5-mINUTES!)
 
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
@@ -18,6 +19,7 @@ This is Transformers simplified for beginners, based on the journal article ‘A
 Main terms and concepts: Attention mechanism, contextual understanding, encoder and decoder, multi-head, positional encoding, self-attention.
 
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/6n-mOFlhbGI/maxresdefault.jpg)](https://youtu.be/6n-mOFlhbGI) 
+
 
 
 ## Beginner's guide to how language models work full history of language models

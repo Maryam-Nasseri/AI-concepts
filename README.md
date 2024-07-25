@@ -51,3 +51,6 @@ A beginner and easy-to-follow explanation of Backpropagation in Neural Networks,
 A super simplified explanation of the Mamba language model with the Selective State Space Model (Selective SSM architecture). It shows how Mamba’s AI architecture uses the Selective State Space Model to figure out which parts of the data. e.g., which words in a word sequence, are connected and how they might affect what happens next, e.g., to predict which word comes next.
 
 [![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/e7TFEgq5xiY/maxresdefault.jpg)](https://youtu.be/e7TFEgq5xiY) 
+
+
+## Is Mamba LLM Destroying Transformers? Language Model Comparison in AI

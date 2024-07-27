@@ -54,3 +54,5 @@ A super simplified explanation of the Mamba language model with the Selective St
 
 
 ## Is Mamba LLM Destroying Transformers? Language Model Comparison in AI
+
+The model architectures and performance differences of the Transformer and Mamba language models. 

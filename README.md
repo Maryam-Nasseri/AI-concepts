@@ -59,3 +59,6 @@ A super simplified explanation of the Mamba language model with the Selective St
 The model architectures and performance differences of the Transformer and Mamba language models. I will compare the functionalities of the main AI and machine learning models, and show the necessary improvements in the Mamba AI model compared to its Recurrent Neural Networks predecessor such as Long Short Term Memory or LSTM, and Gated networks. 
 
 [![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/pfqNXaAOh1U/maxresdefault.jpg)](https://youtu.be/pfqNXaAOh1U)
+
+
+## What Is An Agentic Workflow? Six Main System For AI Agents 

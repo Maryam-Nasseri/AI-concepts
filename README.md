@@ -61,4 +61,4 @@ The model architectures and performance differences of the Transformer and Mamba
 [![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/pfqNXaAOh1U/maxresdefault.jpg)](https://youtu.be/pfqNXaAOh1U)
 
 
-## What Is An Agentic Workflow? Six Main System For AI Agents 
+## What Is An Agentic Workflow? Six Main Systems For AI Agents 

@@ -64,3 +64,4 @@ The model architectures and performance differences of the Transformer and Mamba
 ## What Is An Agentic Workflow? Six Main Systems For AI Agents 
 
 Researchers in artificial intelligence believe that the path to AGI or Artificial General Intelligence is by leveraging the Agentic AI workflow. But what exactly is an agentic AI workflow and how can we use it in our daily tasks and business decision-making?
+Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion method, verbal reinforcement learning

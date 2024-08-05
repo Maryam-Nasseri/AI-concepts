@@ -66,3 +66,5 @@ The model architectures and performance differences of the Transformer and Mamba
 Researchers in artificial intelligence believe that the path to AGI or Artificial General Intelligence is by leveraging the Agentic AI workflow. But what exactly is an agentic AI workflow and how can we use it in our daily tasks and business decision-making?
 
 Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion method, verbal reinforcement learning, HuggingGPT, chain of thought prompting, AutoGen, retrieval-augmented chat, Multi-agent coding
+
+[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho)

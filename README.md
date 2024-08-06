@@ -13,6 +13,8 @@ This repository is a collection of AI concepts and terms with their video links:
 
 [Is Mamba LLM Destroying Transformers? Language Model Comparison in AI](#is-mamba-lLM-destroying-transformers?-language-model-comparison-in-aI)
 
+[What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
+
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 
 This is Transformers simplified for beginners, based on the journal article ‘Attention Is All You Need’ 2017 by Google researchers. 

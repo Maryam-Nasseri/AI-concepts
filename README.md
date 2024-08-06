@@ -1,6 +1,11 @@
 # AI-concepts
 This repository is a collection of AI concepts and terms with their video links:
 
+## Basic AI Terms and Concepts:
+
+
+## Videos about AI Concepts and Terms:
+
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 
 [Beginner's guide to how language models work: full history of language models](#beginner's-guide-to-how-language-models-work-full-history-of-language-models)

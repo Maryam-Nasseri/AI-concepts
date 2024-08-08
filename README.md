@@ -1,11 +1,13 @@
 # AI-concepts
-This repository is a collection of AI concepts and terms with their video links in the second section:
+This repository is a min-course for beginners on AI concepts and terms with their video links in the second section:
 
 ## Basic AI Terms and Concepts:
 
 **Neural Network** is a network of neurons forming two or more layers. Think of the neurons as receiving points of values, with two specific values called "weight" and "bias". Input values are passed to the first layer where the output of each neuron is a weighted sum of its inputs, plus the bias. The output is passed on to the neurons in the next layer and so on, towards the final layer of the network, where the final output or the decision is received. 
 
 **Fine-tuning** is the process of making new information accessible to a generative model by updating its weights via training the layers closer to the output.
+
+**Optimizer** is an algorithm that adjusts the neurons' weights and biases as the parameters of a neural network. Optimisation of parameters is meant to minimise the loss function in the training stage.
 
 ## Videos about AI Concepts and Terms:
 

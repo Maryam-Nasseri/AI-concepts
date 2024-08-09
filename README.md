@@ -1,5 +1,5 @@
 # AI-concepts
-This repository is a min-course for beginners on AI concepts and terms with their video links in the second section:
+This repository is a mini-course for beginners on AI concepts and terms with their video links in the second section:
 
 ## Basic AI Terms and Concepts:
 
@@ -7,7 +7,9 @@ This repository is a min-course for beginners on AI concepts and terms with thei
 
 **Fine-tuning** is the process of making new information accessible to a generative model by updating its weights via training the layers closer to the output.
 
-**Optimizer** is an algorithm that adjusts the neurons' weights and biases as the parameters of a neural network. Optimisation of parameters is meant to minimise the loss function in the training stage.
+**Optimizer** is an algorithm that adjusts the neurons' weights and biases as the parameters of a neural network. The optimisation of parameters is meant to minimise the loss function during the training stage.
+
+**In Context Learning or ICL** is an alternative to fine-tuning whereby the user provides the generative model with additional examples of the desired response at the prompt. ICL does not require any model training or parameter tuning as done with fine-tuning.
 
 ## Videos about AI Concepts and Terms:
 

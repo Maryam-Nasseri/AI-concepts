@@ -13,7 +13,7 @@ This repository is a mini-course for beginners on AI concepts and terms with the
 
 **RAG or the retrieval augmented generation** method is another alternative to fine-tuning whereby the user provides the pre-trained model with additional information from external sources of data, e.g., a PDF file, spreadsheet data, a web link, or even a code repository.
 
-## Videos about AI Concepts and Terms:
+## Table of Content: Videos about AI Concepts and Terms:
 
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 

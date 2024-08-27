@@ -86,3 +86,6 @@ Researchers in artificial intelligence believe that the path to AGI or Artificia
 Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion method, verbal reinforcement learning, HuggingGPT, chain of thought prompting, AutoGen, retrieval-augmented chat, Multi-agent coding
 
 [![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho)
+
+
+## AI Terms and Concepts Explained!

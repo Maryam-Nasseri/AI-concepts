@@ -91,4 +91,5 @@ Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion m
 ## AI Terms and Concepts Explained!
 
 Retrieval Augmented Generation (RAG) vs In-Context-Learning (ICL) vs Fine-Tuning LLMs: 
+Prompt engineering, information retrieval, natural language processing
 [![Watch the video explaining main terms and concepts in AI aRTIFICIAL iNTELLIGENCE](https://img.youtube.com/vi/bl9jw2BZCxc/maxresdefault.jpg)](https://youtu.be/bl9jw2BZCxc)

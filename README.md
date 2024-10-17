@@ -31,6 +31,9 @@ This repository is a mini-course for beginners on AI concepts and terms with the
 
 [What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
 
+[AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)
+
+
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 
 This is Transformers simplified for beginners, based on the journal article ‘Attention Is All You Need’ 2017 by Google researchers. 

@@ -112,3 +112,7 @@ Here's a list of foundational research papers in Machine Learning (ML) and AI:
 
 
 ### Convolutional Neural Network (CNN)
+
+Fukushima, K. and Miyake, S., 1982. Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition. In Competition and cooperation in neural nets (pp. 267–285). Springer, Berlin, Heidelberg.
+
+LeCun, Y., Bottou, L., Bengio, Y. and Haffner, P., 1998. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), pp.2278–2324.

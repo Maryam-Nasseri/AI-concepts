@@ -107,6 +107,8 @@ Prompt engineering, information retrieval, natural language processing
 
 Here's a list of foundational research papers in Machine Learning (ML) and AI:
 ### Backpropagation
+David Rumelhart, Geoffrey Hinton, and Ronald Williams. 1986. Learning Representations by Back-propagating Errors. Nature. 
+
 
 ### Neural Networks
 

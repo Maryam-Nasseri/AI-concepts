@@ -112,6 +112,7 @@ David Rumelhart, Geoffrey Hinton, and Ronald Williams. 1986. Learning Representa
 
 ### Neural Networks
 
+Aytekin, et al., 2022. Neural Networks are Decision Trees. https://arxiv.org/pdf/2210.05189 
 
 ### Convolutional Neural Network (CNN)
 
@@ -124,3 +125,7 @@ Krizhevsky, A., Sutskever, I. and Hinton, G.E., 2017. ImageNet classification wi
 C. Szegedy et al., “Going deeper with convolutions,” 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 1–9, doi: 10.1109/CVPR.2015.7298594.
 
 He, K., Zhang, X., Ren, S. and Sun, J., 2016. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770–778).
+
+### Retrieval Augmented Generation (RAG)
+
+Lewis et al., 2021. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. https://arxiv.org/pdf/2005.11401 

@@ -106,13 +106,18 @@ Prompt engineering, information retrieval, natural language processing
 ## Important Research Papers on AI and Machine Learning
 
 Here's a list of foundational research papers in Machine Learning (ML) and AI:
+
 ### Backpropagation
+
 David Rumelhart, Geoffrey Hinton, and Ronald Williams. 1986. Learning Representations by Back-propagating Errors. Nature. 
 
+Hinton, 2022. The Forward-Forward Algorithm: Some Preliminary Investigations. 
 
 ### Neural Networks
 
 Aytekin, et al., 2022. Neural Networks are Decision Trees. https://arxiv.org/pdf/2210.05189 
+
+Schmidhuber, 2014. Deep Learning in Neural Networks: An Overview. https://arxiv.org/pdf/1404.7828 
 
 ### Convolutional Neural Network (CNN)
 
@@ -127,5 +132,7 @@ C. Szegedy et al., “Going deeper with convolutions,” 2015 IEEE Conference on
 He, K., Zhang, X., Ren, S. and Sun, J., 2016. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770–778).
 
 ### Retrieval Augmented Generation (RAG)
+
+Hu et al., 2021. LoRA: Low-Rank Adaptation for Large Language Models
 
 Lewis et al., 2021. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. https://arxiv.org/pdf/2005.11401 

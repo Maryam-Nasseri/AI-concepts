@@ -131,6 +131,8 @@ C. Szegedy et al., “Going deeper with convolutions,” 2015 IEEE Conference on
 
 He, K., Zhang, X., Ren, S. and Sun, J., 2016. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770–778).
 
+### Generative Adversarial Networks (GANs)
+
 Schonfeld et al., 2020. A U-Net Based Discriminator for Generative Adversarial Networks. 
 
 ### Retrieval Augmented Generation (RAG)

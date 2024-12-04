@@ -142,3 +142,7 @@ Schonfeld et al., 2020. A U-Net Based Discriminator for Generative Adversarial N
 Hu et al., 2021. LoRA: Low-Rank Adaptation for Large Language Models
 
 Lewis et al., 2021. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. https://arxiv.org/pdf/2005.11401 
+
+### In-Context-Learning (ICL)
+
+Jiang, et al. 2024. Many-Shot In-Context Learning in Multimodal Foundation Models.

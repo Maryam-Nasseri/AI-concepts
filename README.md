@@ -146,3 +146,10 @@ Lewis et al., 2021. Retrieval-Augmented Generation for Knowledge-Intensive NLP T
 ### In-Context-Learning (ICL)
 
 Jiang, et al. 2024. Many-Shot In-Context Learning in Multimodal Foundation Models.
+
+### Vision / Image Generative Models and Research
+
+Dosovitskiy, et al. 2021. An image is worth 16x16 words: Transformers for image recognition at scale.
+
+Hollein et al. 2024. ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models.
+

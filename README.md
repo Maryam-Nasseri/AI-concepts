@@ -44,7 +44,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 ## These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI
 A collection of the most important AI and Machine Learning (ML) papers, concepts, and algorithms you need to get started in your AI journey. The full list of References is included at the end of this repository.
-[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/6n-mOFlhbGI/maxresdefault.jpg)](https://youtu.be/6n-mOFlhbGI) 
+[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
 
 
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
@@ -53,8 +53,7 @@ This is Transformers simplified for beginners, based on the journal article ‘A
 
 Main terms and concepts: Attention mechanism, contextual understanding, encoder and decoder, multi-head, positional encoding, self-attention.
 
-[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
-
+[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/6n-mOFlhbGI/maxresdefault.jpg)](https://youtu.be/6n-mOFlhbGI) 
 
 
 ## Beginner's guide to how language models work full history of language models

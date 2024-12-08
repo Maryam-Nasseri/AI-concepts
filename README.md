@@ -44,6 +44,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 ## These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI
 A collection of the most important AI and Machine Learning (ML) papers, concepts, and algorithms you need to get started in your AI journey. The full list of References is included at the end of this repository.
+
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
 
 
@@ -144,11 +145,13 @@ He, K., Zhang, X., Ren, S. and Sun, J., 2016. Deep residual learning for image r
 
 Schonfeld et al., 2020. A U-Net Based Discriminator for Generative Adversarial Networks. 
 
-### Retrieval Augmented Generation (RAG)
+### Agentic Research & Retrieval Augmented Generation (RAG)
 
 Hu et al., 2021. LoRA: Low-Rank Adaptation for Large Language Models
 
 Lewis et al., 2021. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. https://arxiv.org/pdf/2005.11401 
+
+Xue et al. 2024. OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models. 
 
 ### In-Context-Learning (ICL)
 
@@ -163,3 +166,5 @@ Hollein et al. 2024. ViewDiff: 3D-Consistent Image Generation with Text-to-Image
 Crowson et al. 2024. Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers.
 
 Gupta et al. 2023. Photorealistic Video Generation with Diffusion Models. 
+
+Dehghani et al. 2023. Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution.

@@ -129,6 +129,12 @@ Schmidhuber, 2014. Deep Learning in Neural Networks: An Overview. https://arxiv.
 
 Dosovitskiy, et al. 2021. An image is worth 16x16 words: Transformers for image recognition at scale.
 
+### Transformer-based LLM Research
+
+Beltagy et al. 2024. Longformer: The Long-Document Transformer.
+
+Wang et al., 2020. Linformer: Self-Attention with Linear Complexity
+
 ### Convolutional Neural Network (CNN)
 
 Fukushima, K. and Miyake, S., 1982. Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition. In Competition and cooperation in neural nets (pp. 267–285). Springer, Berlin, Heidelberg.

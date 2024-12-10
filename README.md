@@ -174,3 +174,9 @@ Crowson et al. 2024. Scalable High-Resolution Pixel-Space Image Synthesis with H
 Gupta et al. 2023. Photorealistic Video Generation with Diffusion Models. 
 
 Dehghani et al. 2023. Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution.
+
+Ho et al. 2020. Denoising Diffusion Probabilistic Models.
+
+### Other Important AI - ML Papers:
+
+Jiang et al. 2024. Investigating Data Contamination for Pre-training Language Models.

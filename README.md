@@ -181,6 +181,8 @@ Chen et al. 2020. Generative Pretraining from Pixels. Proceedings of the 37th In
 
 Chhabra et al. 2019. Data Fine-Tuning. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19). 
 
+Ma et al. 2024. SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers
+
 ### Other Important AI - ML Papers:
 
 Jiang et al. 2024. Investigating Data Contamination for Pre-training Language Models.

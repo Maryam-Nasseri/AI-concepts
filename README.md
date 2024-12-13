@@ -183,6 +183,12 @@ Chhabra et al. 2019. Data Fine-Tuning. The Thirty-Third AAAI Conference on Artif
 
 Ma et al. 2024. SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers
 
+Croitoru et al. 2023. Diffusion Models in Vision: A Survey.
+
+### AI in Natural Language Processing (NLP)
+
+Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey. 
+
 ### Other Important AI - ML Papers:
 
 Jiang et al. 2024. Investigating Data Contamination for Pre-training Language Models.

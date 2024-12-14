@@ -135,6 +135,8 @@ Beltagy et al. 2024. Longformer: The Long-Document Transformer.
 
 Wang et al., 2020. Linformer: Self-Attention with Linear Complexity
 
+Zaheer et al. 2021. Big Bird: Transformers for Longer Sequences.
+
 ### Convolutional Neural Network (CNN)
 
 Fukushima, K. and Miyake, S., 1982. Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition. In Competition and cooperation in neural nets (pp. 267–285). Springer, Berlin, Heidelberg.
@@ -184,6 +186,8 @@ Chhabra et al. 2019. Data Fine-Tuning. The Thirty-Third AAAI Conference on Artif
 Ma et al. 2024. SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers
 
 Croitoru et al. 2023. Diffusion Models in Vision: A Survey.
+
+Blattmann et al. 2023. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models.
 
 ### AI in Natural Language Processing (NLP)
 

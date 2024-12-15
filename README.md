@@ -137,6 +137,8 @@ Wang et al., 2020. Linformer: Self-Attention with Linear Complexity
 
 Zaheer et al. 2021. Big Bird: Transformers for Longer Sequences.
 
+Open Ai. 2023. GPT-4 Technical Report. 
+
 ### Convolutional Neural Network (CNN)
 
 Fukushima, K. and Miyake, S., 1982. Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition. In Competition and cooperation in neural nets (pp. 267–285). Springer, Berlin, Heidelberg.
@@ -188,6 +190,8 @@ Ma et al. 2024. SiT: Exploring Flow and Diffusion-based Generative Models with S
 Croitoru et al. 2023. Diffusion Models in Vision: A Survey.
 
 Blattmann et al. 2023. Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models.
+
+Bao et al. 2022. Why Are Conditional Generative Models Better Than Unconditional Ones?
 
 ### AI in Natural Language Processing (NLP)
 

@@ -139,6 +139,8 @@ Zaheer et al. 2021. Big Bird: Transformers for Longer Sequences.
 
 Open Ai. 2023. GPT-4 Technical Report. 
 
+Dai et al. 2019.Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.
+
 ### Convolutional Neural Network (CNN)
 
 Fukushima, K. and Miyake, S., 1982. Neocognitron: A self-organizing neural network model for a mechanism of visual pattern recognition. In Competition and cooperation in neural nets (pp. 267–285). Springer, Berlin, Heidelberg.
@@ -200,3 +202,5 @@ Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey.
 ### Other Important AI - ML Papers:
 
 Jiang et al. 2024. Investigating Data Contamination for Pre-training Language Models.
+
+Jabri et al. 2023. Scalable Adaptive Computation for Iterative Generation.

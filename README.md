@@ -5,6 +5,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 1. [Basic AI Terms and Concepts](#basic-aI-terms-and-concepts)
 2. [Videos about AI Concepts and Terms](#videos-about-aI-concepts-and-terms)
 3. [Important Research Papers on AI and Machine Learning](#important-research-papers-on-aI-and-machine-learning)
+4.  [AI Roadmap](#aI-roadmap)
 
 ## Basic AI Terms and Concepts:
 

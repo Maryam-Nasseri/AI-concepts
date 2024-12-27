@@ -7,7 +7,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 3. [Important Research Papers on AI and Machine Learning](#important-research-papers-on-aI-and-machine-learning)
 4.  [AI Roadmap](#aI-roadmap)
 
-## Basic AI Terms and Concepts:
+# Basic AI Terms and Concepts:
 
 **Neural Network** is a network of neurons forming two or more layers. Think of the neurons as receiving points of values, with two specific values called "weight" and "bias". Input values are passed to the first layer where the output of each neuron is a weighted sum of its inputs, plus the bias. The output is passed on to the neurons in the next layer and so on, towards the final layer of the network, where the final output or the decision is received. 
 
@@ -22,7 +22,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 **RAG or the retrieval augmented generation** method is another alternative to fine-tuning whereby the user provides the pre-trained model with additional information from external sources of data, e.g., a PDF file, spreadsheet data, a web link, or even a code repository.
 
 
-## Videos about AI Concepts and Terms:
+# Videos about AI Concepts and Terms:
 
 [These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI](#these-mL-aI-papers-algorithms-will-get-you-ahead-of-99%-in-aI)
 
@@ -112,7 +112,7 @@ Prompt engineering, information retrieval, natural language processing
 [![Watch the video explaining main terms and concepts in AI aRTIFICIAL iNTELLIGENCE](https://img.youtube.com/vi/bl9jw2BZCxc/maxresdefault.jpg)](https://youtu.be/bl9jw2BZCxc)
 
 
-## Important Research Papers on AI and Machine Learning
+# Important Research Papers on AI and Machine Learning
 
 Here's a list of foundational research papers in Machine Learning (ML) and AI:
 
@@ -208,7 +208,7 @@ Jabri et al. 2023. Scalable Adaptive Computation for Iterative Generation.
 
 
 
-## AI Roadmap
+# AI Roadmap
 
 
 ![AI-engineer-roadmap](https://github.com/user-attachments/assets/b2a3dd9c-d360-4ab3-9290-12ce331c0206)

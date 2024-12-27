@@ -21,6 +21,8 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 **RAG or the retrieval augmented generation** method is another alternative to fine-tuning whereby the user provides the pre-trained model with additional information from external sources of data, e.g., a PDF file, spreadsheet data, a web link, or even a code repository.
 
+**Backpropagation** algorithm in most neural network architectures uses a method (e.g., the chain rule bundled with a gradient descent algorithm) to backpropagate or move backwards the error term (difference between the prediction and the expected outcome) to adjust weights and biases in a way to reduce the Loss/Cost function so that the network can obtain a more accurate response. 
+
 
 # Videos about AI Concepts and Terms:
 

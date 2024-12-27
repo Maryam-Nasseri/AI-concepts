@@ -1,5 +1,5 @@
 # AI concepts, Papers, Algorithms & Video Tutorials
-This repository is a mini-course for beginners on AI concepts and terms, foundational AI and Machine Learning-related research papers and frameworks, and some helpful video tutorials:
+This repository is a mini-course for beginners on AI concepts and terms, foundational AI and Machine Learning-related research papers and frameworks, some helpful video tutorials, and a comprehensive AI-Engineer roadmap:
 
 # Table of contents
 1. [Basic AI Terms and Concepts](#basic-aI-terms-and-concepts)

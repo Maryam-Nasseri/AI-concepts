@@ -2,12 +2,12 @@
 This repository is a mini-course for beginners on AI concepts and terms, foundational AI and Machine Learning-related research papers and frameworks, some helpful video tutorials, and a comprehensive AI-Engineer roadmap:
 
 # Table of contents
-1. [Basic AI Terms and Concepts](#basic-aI-terms-and-concepts)
+1. [A Glossary of Basic AI Terms and Concepts](#a-glossary-of-basic-aI-terms-and-concepts)
 2. [Videos about AI Concepts and Terms](#videos-about-aI-concepts-and-terms)
 3. [Important Research Papers on AI and Machine Learning](#important-research-papers-on-aI-and-machine-learning)
 4.  [AI Roadmap](#aI-roadmap)
 
-# Basic AI Terms and Concepts:
+# A Glossary of Basic AI Terms and Concepts:
 
 **Neural Network** is a network of neurons forming two or more layers. Think of the neurons as receiving points of values, with two specific values called "weight" and "bias". Input values are passed to the first layer where the output of each neuron is a weighted sum of its inputs, plus the bias. The output is passed on to the neurons in the next layer and so on, towards the final layer of the network, where the final output or the decision is received. 
 
@@ -22,6 +22,10 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 **RAG or the retrieval augmented generation** method is another alternative to fine-tuning whereby the user provides the pre-trained model with additional information from external sources of data, e.g., a PDF file, spreadsheet data, a web link, or even a code repository.
 
 **Backpropagation** algorithm in most neural network architectures uses a method (e.g., the chain rule bundled with a gradient descent algorithm) to backpropagate or move backwards the error term (difference between the prediction and the expected outcome) to adjust weights and biases in a way to reduce the Loss/Cost function so that the network can obtain a more accurate response. 
+
+**Natural Language Processing (NLP)** has been traditionally a branch of computational linguistics that uses various machine learning algorithms to process and analyse texts and corpora (plural of corpus, a collection of texts) by finding patterns in natural language or human-generated language (both texts and transcribed speech) with the underlying structure of languages that makes meaning. With the advancement of Artificial Intelligence (AI), generative models add to the dimensionality of NLP leading to natural language generation that has become the core method in chatbots' textual/conversational ability as well as generative models for translation, sentiment analysis, and speech recognition.
+
+**Data Augmentation** is a technique used in neural network design to artificially increase the amount of data to be trained by the model by changing some aspects of the original input data. For example, in the context of image classifiers such as CNN (Convolutional Neural Network), the data augmentation process is done by shifting, rotating, flipping, and resizing the original input images.
 
 
 # Videos about AI Concepts and Terms:

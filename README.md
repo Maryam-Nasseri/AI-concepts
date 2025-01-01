@@ -30,6 +30,8 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 # Videos about AI Concepts and Terms:
 
+[You Will Fail in AI until You Learn THIS Completely!](#you-will-fail-in-aI-until-you-learn-tHIS-completely!)
+
 [These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI](#these-mL-aI-papers-algorithms-will-get-you-ahead-of-99%-in-aI)
 
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
@@ -47,6 +49,10 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 [What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
 
 [AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)
+
+
+## You Will Fail in AI until You Learn THIS Completely!
+This video shows you the most important concept in AI which is responsible for the 'learning' part of machine learning. If you ever wondered how machines really 'learn', this is for you!
 
 
 ## These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI

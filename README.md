@@ -57,7 +57,6 @@ This video shows you the most important concept in AI which is responsible for t
 [![Watch the video about learning in machine learning from Analytics Camp](https://img.youtube.com/vi/DiYzn2di7EE/maxresdefault.jpg)](https://youtu.be/DiYzn2di7EE) 
 
 
-
 ## These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI
 A collection of the most important AI and Machine Learning (ML) papers, concepts, and algorithms you need to get started in your AI journey. The full list of References is included at the end of this repository.
 

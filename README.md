@@ -34,6 +34,8 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 [These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI](#these-mL-aI-papers-algorithms-will-get-you-ahead-of-99%-in-aI)
 
+[Forget About LLMs-Large Concept Models (LCM) Are Here Now!](#forget-about-lLMs--large-concept-models-(LCM)-are-here-now!)
+
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 
 [Beginner's guide to how language models work: full history of language models](#beginner's-guide-to-how-language-models-work-full-history-of-language-models)
@@ -61,6 +63,11 @@ This video shows you the most important concept in AI which is responsible for t
 A collection of the most important AI and Machine Learning (ML) papers, concepts, and algorithms you need to get started in your AI journey. The full list of References is included at the end of this repository.
 
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
+
+
+## Forget About LLMs-Large Concept Models (LCM) Are Here Now!
+Explaining the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way:
+[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
 
 
 ## Transformer Language Models Simplified in JUST 3 MINUTES!

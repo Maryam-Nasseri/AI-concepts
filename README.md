@@ -66,7 +66,7 @@ A collection of the most important AI and Machine Learning (ML) papers, concepts
 
 
 ## Forget About LLMs-Large Concept Models (LCM) Are Here Now!
-Explaining the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way:
+This video explains the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way. Unlike LLMs that work on tokenisation of words/pixels/etc, LCMs work on concepts and the segmentation of concepts in an embedding space and therefore, are independent of language and modality at input/output levels.
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
 
 

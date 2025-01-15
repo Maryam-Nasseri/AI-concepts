@@ -38,6 +38,10 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 [Forget About LLMs-Large Concept Models (LCM) Are Here Now!](#forget-about-lLMs--large-concept-models-(LCM)-are-here-now!)
 
+[What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
+
+[AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)
+
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 
 [Beginner's guide to how language models work: full history of language models](#beginner's-guide-to-how-language-models-work-full-history-of-language-models)
@@ -49,10 +53,6 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 [Mamba Language Model Simplified In JUST 5 MINUTES!](#mamba-language-model-simplified-in-jUST-5-mINUTES!)
 
 [Is Mamba LLM Destroying Transformers? Language Model Comparison in AI](#is-mamba-lLM-destroying-transformers?-language-model-comparison-in-aI)
-
-[What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
-
-[AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)
 
 
 ## You Will Fail in AI until You Learn THIS Completely!
@@ -70,6 +70,22 @@ A collection of the most important AI and Machine Learning (ML) papers, concepts
 ## Forget About LLMs-Large Concept Models (LCM) Are Here Now!
 This video explains the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way. Unlike LLMs that work on tokenisation of words/pixels/etc, LCMs work on concepts and the segmentation of concepts in an embedding space and therefore, are independent of language and modality at input/output levels.
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
+
+
+## What Is An Agentic Workflow? Six Main Systems For AI Agents 
+
+Researchers in artificial intelligence believe that the path to AGI or Artificial General Intelligence is by leveraging the Agentic AI workflow. But what exactly is an agentic AI workflow and how can we use it in our daily tasks and business decision-making?
+
+Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion method, verbal reinforcement learning, HuggingGPT, chain of thought prompting, AutoGen, retrieval-augmented chat, Multi-agent coding
+
+[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho)
+
+
+## AI Terms and Concepts Explained!
+
+Retrieval Augmented Generation (RAG) vs In-Context-Learning (ICL) vs Fine-Tuning LLMs: 
+Prompt engineering, information retrieval, natural language processing
+[![Watch the video explaining main terms and concepts in AI aRTIFICIAL iNTELLIGENCE](https://img.youtube.com/vi/bl9jw2BZCxc/maxresdefault.jpg)](https://youtu.be/bl9jw2BZCxc)
 
 
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
@@ -117,22 +133,6 @@ A super simplified explanation of the Mamba language model with the Selective St
 The model architectures and performance differences of the Transformer and Mamba language models. I will compare the functionalities of the main AI and machine learning models, and show the necessary improvements in the Mamba AI model compared to its Recurrent Neural Networks predecessor such as Long Short Term Memory or LSTM, and Gated networks. 
 
 [![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/pfqNXaAOh1U/maxresdefault.jpg)](https://youtu.be/pfqNXaAOh1U)
-
-
-## What Is An Agentic Workflow? Six Main Systems For AI Agents 
-
-Researchers in artificial intelligence believe that the path to AGI or Artificial General Intelligence is by leveraging the Agentic AI workflow. But what exactly is an agentic AI workflow and how can we use it in our daily tasks and business decision-making?
-
-Key terms and concepts: multi-agent, self-refine, refinement method, Reflexion method, verbal reinforcement learning, HuggingGPT, chain of thought prompting, AutoGen, retrieval-augmented chat, Multi-agent coding
-
-[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho)
-
-
-## AI Terms and Concepts Explained!
-
-Retrieval Augmented Generation (RAG) vs In-Context-Learning (ICL) vs Fine-Tuning LLMs: 
-Prompt engineering, information retrieval, natural language processing
-[![Watch the video explaining main terms and concepts in AI aRTIFICIAL iNTELLIGENCE](https://img.youtube.com/vi/bl9jw2BZCxc/maxresdefault.jpg)](https://youtu.be/bl9jw2BZCxc)
 
 
 # Important Research Papers on AI and Machine Learning

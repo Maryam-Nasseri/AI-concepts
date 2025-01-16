@@ -42,6 +42,10 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 [AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)
 
+[Mamba Language Model Simplified In JUST 5 MINUTES!](#mamba-language-model-simplified-in-jUST-5-mINUTES!)
+
+[Is Mamba LLM Destroying Transformers? Language Model Comparison in AI](#is-mamba-lLM-destroying-transformers?-language-model-comparison-in-aI)
+
 [Transformer Language Models Simplified in JUST 3 MINUTES!](#transformer-language-models-simplified-in-just-3-minutes!)
 
 [Beginner's guide to how language models work: full history of language models](#beginner's-guide-to-how-language-models-work-full-history-of-language-models)
@@ -50,9 +54,6 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 [The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks](#the-concept-of-backpropagation-simplified-in-jUST-2-mINUTES!-neural-networks)
 
-[Mamba Language Model Simplified In JUST 5 MINUTES!](#mamba-language-model-simplified-in-jUST-5-mINUTES!)
-
-[Is Mamba LLM Destroying Transformers? Language Model Comparison in AI](#is-mamba-lLM-destroying-transformers?-language-model-comparison-in-aI)
 
 
 ## You Will Fail in AI until You Learn THIS Completely!
@@ -88,6 +89,20 @@ Prompt engineering, information retrieval, natural language processing
 [![Watch the video explaining main terms and concepts in AI aRTIFICIAL iNTELLIGENCE](https://img.youtube.com/vi/bl9jw2BZCxc/maxresdefault.jpg)](https://youtu.be/bl9jw2BZCxc)
 
 
+## Mamba Language Model Simplified In JUST 5 MINUTES!
+
+A super simplified explanation of the Mamba language model with the Selective State Space Model (Selective SSM architecture). It shows how Mamba’s AI architecture uses the Selective State Space Model to figure out which parts of the data. e.g., which words in a word sequence, are connected and how they might affect what happens next, e.g., to predict which word comes next.
+
+[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/e7TFEgq5xiY/maxresdefault.jpg)](https://youtu.be/e7TFEgq5xiY) 
+
+
+## Is Mamba LLM Destroying Transformers? Language Model Comparison in AI
+
+The model architectures and performance differences of the Transformer and Mamba language models. I will compare the functionalities of the main AI and machine learning models, and show the necessary improvements in the Mamba AI model compared to its Recurrent Neural Networks predecessor such as Long Short Term Memory or LSTM, and Gated networks. 
+
+[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/pfqNXaAOh1U/maxresdefault.jpg)](https://youtu.be/pfqNXaAOh1U)
+
+
 ## Transformer Language Models Simplified in JUST 3 MINUTES!
 
 This is Transformers simplified for beginners, based on the journal article ‘Attention Is All You Need’ 2017 by Google researchers. 
@@ -120,19 +135,6 @@ A beginner and easy-to-follow explanation of Backpropagation in Neural Networks,
 
 [![Watch the video on the concept of backpropagation simplified](https://img.youtube.com/vi/gyW5gQnsm3w/maxresdefault.jpg)](https://youtu.be/gyW5gQnsm3w) 
 
-
-## Mamba Language Model Simplified In JUST 5 MINUTES!
-
-A super simplified explanation of the Mamba language model with the Selective State Space Model (Selective SSM architecture). It shows how Mamba’s AI architecture uses the Selective State Space Model to figure out which parts of the data. e.g., which words in a word sequence, are connected and how they might affect what happens next, e.g., to predict which word comes next.
-
-[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/e7TFEgq5xiY/maxresdefault.jpg)](https://youtu.be/e7TFEgq5xiY) 
-
-
-## Is Mamba LLM Destroying Transformers? Language Model Comparison in AI
-
-The model architectures and performance differences of the Transformer and Mamba language models. I will compare the functionalities of the main AI and machine learning models, and show the necessary improvements in the Mamba AI model compared to its Recurrent Neural Networks predecessor such as Long Short Term Memory or LSTM, and Gated networks. 
-
-[![Watch the video on Mamba Language Model with Selective State Space](https://img.youtube.com/vi/pfqNXaAOh1U/maxresdefault.jpg)](https://youtu.be/pfqNXaAOh1U)
 
 
 # Important Research Papers on AI and Machine Learning

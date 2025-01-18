@@ -221,6 +221,12 @@ Blattmann et al. 2023. Align your Latents: High-Resolution Video Synthesis with 
 
 Bao et al. 2022. Why Are Conditional Generative Models Better Than Unconditional Ones?
 
+### Concept Models in AI/Deep Learning
+
+Barrault et al., 2024. Large Concept Models - Language Modeling in a Sentence Representation Space. https://arxiv.org/abs/2412.08821
+
+Ji et al., 2019. Microsoft Concept Graph: Mining Semantic Concepts for Short Text Understanding.https://direct.mit.edu/dint/article/1/3/238/9983/Microsoft-Concept-Graph-Mining-Semantic-Concepts
+
 ### AI in Natural Language Processing (NLP)
 
 Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey. 

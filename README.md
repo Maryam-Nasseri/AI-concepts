@@ -227,6 +227,10 @@ Barrault et al., 2024. Large Concept Models - Language Modeling in a Sentence Re
 
 Ji et al., 2019. Microsoft Concept Graph: Mining Semantic Concepts for Short Text Understanding.https://direct.mit.edu/dint/article/1/3/238/9983/Microsoft-Concept-Graph-Mining-Semantic-Concepts
 
+Ahmad & Goel, 2024. The Future of AI Exploring the Potential of Large Concept Models.
+
+Chang, 2018. Concept-Oriented Deep Learning. 
+
 ### AI in Natural Language Processing (NLP)
 
 Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey. 

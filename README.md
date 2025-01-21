@@ -231,6 +231,10 @@ Ahmad & Goel, 2024. The Future of AI Exploring the Potential of Large Concept Mo
 
 Chang, 2018. Concept-Oriented Deep Learning. 
 
+Narayanan, 2024. A survey on Concept-Based Approaches for Model Improvement.
+
+Roy, 2010. True Natural Language Understanding through a Conceptual Language Understanding Engine. https://www.codeproject.com/Articles/51026/True-Natural-Language-Understanding-through-a-Conc 
+
 ### AI in Natural Language Processing (NLP)
 
 Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey. 

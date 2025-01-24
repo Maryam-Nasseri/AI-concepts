@@ -72,6 +72,8 @@ A collection of the most important AI and Machine Learning (ML) papers, concepts
 This video explains the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way. Unlike LLMs that work on tokenisation of words/pixels/etc, LCMs work on concepts and the segmentation of concepts in an embedding space and therefore, are independent of language and modality at input/output levels.
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
 
+## LCM Paper Walkthrough: Large Concept Models - Language Modeling in a Sentence Representation Space
+A walkthrough video of the main concepts, architecture, formulas, and methods used in the research paper of Large Concept Model (LCM). Coming soon!
 
 ## What Is An Agentic Workflow? Six Main Systems For AI Agents 
 

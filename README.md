@@ -38,6 +38,8 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 [Forget About LLMs-Large Concept Models (LCM) Are Here Now!](#forget-about-lLMs--large-concept-models-(LCM)-are-here-now!)
 
+[LCM Paper Walkthrough: Large Concept Models - Language Modeling in a Sentence Representation Space](#lCM-paper-walkthrough:-large-concept-models-language-modeling-in-a-sentence-representation-space)
+
 [What Is An Agentic Workflow? Six Main Systems For AI Agents](#what-is-an-agentic-workflow?-six-main-systems-for-aI-agents)
 
 [AI Terms and Concepts Explained!](#aI-terms-and-concepts-explained!)

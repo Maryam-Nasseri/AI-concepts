@@ -73,7 +73,8 @@ This video explains the new AI model architecture: Large Concept Model or LCM by
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
 
 ## LCM Paper Walkthrough: Large Concept Models - Language Modeling in a Sentence Representation Space
-A walkthrough video of the main concepts, architecture, formulas, and methods used in the research paper of Large Concept Model (LCM). Coming soon!
+A walkthrough video of the main concepts, architecture, formulas, and methods used in the research paper of Large Concept Model (LCM) by Meta researchers. 
+[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/l8Rzc4NeTiw/maxresdefault.jpg)](https://youtu.be/l8Rzc4NeTiw) 
 
 ## What Is An Agentic Workflow? Six Main Systems For AI Agents 
 

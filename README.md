@@ -78,6 +78,10 @@ This video explains the new AI model architecture: Large Concept Model or LCM by
 A walkthrough video of the main concepts, architecture, formulas, and methods used in the research paper of Large Concept Model (LCM) by Meta researchers. 
 [![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/l8Rzc4NeTiw/maxresdefault.jpg)](https://youtu.be/l8Rzc4NeTiw) 
 
+
+## DeepSeek R1 and The Comeback of Reinforcement Learning – Just A Side-Project, Huh? (video coming soon)
+The algorithm and methods behind the DeepSeek R1 Large Language Model.
+
 ## What Is An Agentic Workflow? Six Main Systems For AI Agents 
 
 Researchers in artificial intelligence believe that the path to AGI or Artificial General Intelligence is by leveraging the Agentic AI workflow. But what exactly is an agentic AI workflow and how can we use it in our daily tasks and business decision-making?

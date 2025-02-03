@@ -67,20 +67,21 @@ This video shows you the most important concept in AI which is responsible for t
 ## These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI
 A collection of the most important AI and Machine Learning (ML) papers, concepts, and algorithms you need to get started in your AI journey. The full list of References is included at the end of this repository.
 
-[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
+[![Watch the video about important AI and ML research papers from Analytics Camp](https://img.youtube.com/vi/L24iU-DZWLg/maxresdefault.jpg)](https://youtu.be/L24iU-DZWLg) 
 
 
 ## Forget About LLMs-Large Concept Models (LCM) Are Here Now!
 This video explains the new AI model architecture: Large Concept Model or LCM by Meta researchers in a very intuitive way. Unlike LLMs that work on tokenisation of words/pixels/etc, LCMs work on concepts and the segmentation of concepts in an embedding space and therefore, are independent of language and modality at input/output levels.
-[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
+[![Watch the video about LCM or large concept model from Analytics Camp](https://img.youtube.com/vi/si_6DB0bM9E/maxresdefault.jpg)](https://youtu.be/si_6DB0bM9E) 
 
 ## LCM Paper Walkthrough: Large Concept Models - Language Modeling in a Sentence Representation Space
 A walkthrough video of the main concepts, architecture, formulas, and methods used in the research paper of Large Concept Model (LCM) by Meta researchers. 
-[![Watch the video Transformer Language Model from Analytics Camp](https://img.youtube.com/vi/l8Rzc4NeTiw/maxresdefault.jpg)](https://youtu.be/l8Rzc4NeTiw) 
+[![Watch the video about Large Concept Models from Analytics Camp](https://img.youtube.com/vi/l8Rzc4NeTiw/maxresdefault.jpg)](https://youtu.be/l8Rzc4NeTiw) 
 
 
-## DeepSeek R1 and The Comeback of Reinforcement Learning – Just A Side-Project, Huh? (video coming soon)
-The algorithm and methods behind the DeepSeek R1 Large Language Model.
+## DeepSeek R1 and The Comeback of Reinforcement Learning 
+This video explains the methods behind the DeepSeek R1 and R10Zero Large Language Models, core concepts, and future directions.
+[![Watch the videoabout DeepSeek R1 Language Model from Analytics Camp](https://img.youtube.com/vi/xETVko3sUkE/maxresdefault.jpg)](https://youtu.be/xETVko3sUkE) 
 
 ## What Is An Agentic Workflow? Six Main Systems For AI Agents 
 

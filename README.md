@@ -57,6 +57,11 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 [The Concept of Backpropagation Simplified in JUST 2 MINUTES! --Neural Networks](#the-concept-of-backpropagation-simplified-in-jUST-2-mINUTES!-neural-networks)
 
 
+## AI will be Hard Until You Understand These 5 Concepts in Neural Networks
+Animated explanation of the 5 key concepts in AI-neural networks you should know.
+
+[![Watch the video about main AI concepts from Analytics Camp](https://img.youtube.com/vi/ShAquojMCxk/maxresdefault.jpg)](https://youtu.be/ShAquojMCxk) 
+
 
 ## You Will Fail in AI until You Learn THIS Completely!
 This video shows you the most important concept in AI which is responsible for the 'learning' part of machine learning. If you ever wondered how machines really 'learn', this is for you!

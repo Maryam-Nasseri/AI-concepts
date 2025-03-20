@@ -32,6 +32,8 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 # Videos about AI Concepts and Terms:
 
+[AI will be Hard Until You Understand These 5 Concepts in Neural Networks](#aI-will-be-hard-until-you-understand-these-5-concepts-in-neural-networks)
+
 [You Will Fail in AI until You Learn THIS Completely!](#you-will-fail-in-aI-until-you-learn-tHIS-completely!)
 
 [These ML- AI Papers/Algorithms Will Get You Ahead Of 99% in AI](#these-mL-aI-papers-algorithms-will-get-you-ahead-of-99%-in-aI)
@@ -58,7 +60,7 @@ This repository is a mini-course for beginners on AI concepts and terms, foundat
 
 
 ## AI will be Hard Until You Understand These 5 Concepts in Neural Networks
-Animated explanation of the 5 key concepts in AI-neural networks you should know.
+Animated explanation of the 5 key concepts in AI-neural networks you should know: word embedding, weight & bias, activation function, loss function, backpropagation with gradient descent.
 
 [![Watch the video about main AI concepts from Analytics Camp](https://img.youtube.com/vi/ShAquojMCxk/maxresdefault.jpg)](https://youtu.be/ShAquojMCxk) 
 

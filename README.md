@@ -258,6 +258,8 @@ Zhu & Zhao. 2023. Diffusion Models in NLP: A Survey.
 
 ### Other Important AI - ML Papers:
 
+DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.
+
 Jiang et al. 2024. Investigating Data Contamination for Pre-training Language Models.
 
 Jabri et al. 2023. Scalable Adaptive Computation for Iterative Generation.

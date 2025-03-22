@@ -222,6 +222,8 @@ Crowson et al. 2024. Scalable High-Resolution Pixel-Space Image Synthesis with H
 
 Gupta et al. 2023. Photorealistic Video Generation with Diffusion Models. 
 
+Lin et al., 2025. OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models.
+
 Dehghani et al. 2023. Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution.
 
 Ho et al. 2020. Denoising Diffusion Probabilistic Models.
